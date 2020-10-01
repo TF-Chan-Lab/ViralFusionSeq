@@ -9,7 +9,6 @@ ViralFusionSeq (VFS) is a versatile high-throughput sequencing (HTS) tool for di
 
 A simple yet effective empirical statistical model is used to evaluate the quality of fusion breakpoints.
 
-
 ## Features
 - Applicable and fully tested using RNA-Seq and DNA-Seq data
 - Utilize both clipped-sequence (CS) and paired-end (RP) information to discover viral integration
@@ -27,6 +26,7 @@ https://pubmed.ncbi.nlm.nih.gov/23314323/
 ## Announcements
 - VFS is superior to Virus-Clip. Comparison report available here: https://github.com/TF-Chan-Lab/ViralFusionSeq/blob/master/VFS.vs.Virus-Clip.pdf
 - VFS uses BLAST-2.2.26 which requires old version of database files, e.g. .nsd. These files can be created by BLAST-2.2.26 `formatdb` function (with "-o T" argument enabled) from FASTA sequences.
+- Testing FASTQ files are available here: https://drive.google.com/drive/folders/1E0q0V3RXBuKfldS6kaOb_H4U9qxyn2mP?usp=sharing
 
 ## Previous versions
 - Please refer to the SourceForge for previous versions: https://sourceforge.net/projects/viralfusionseq/files/release/
