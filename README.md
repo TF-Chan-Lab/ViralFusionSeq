@@ -19,6 +19,9 @@ A simple yet effective empirical statistical model is used to evaluate the quali
 ## Installation
 - Please refer to the manual `VFS.manual.pdf`
 
+## Run through docker
+- Please check the scripts `build_docker.sh` and `run_docker_example.sh` to see how to build and run through docker
+
 ## Citation
 >Li JW, Wan R, Yu CS, Co NN, Wong N, Chan TF. ViralFusionSeq: accurately discover viral integration events and reconstruct fusion transcripts at single-base resolution. Bioinformatics. 2013 Mar 1;29(5):649-51. doi: 10.1093/bioinformatics/btt011. Epub 2013 Jan 12. PMID: 23314323; PMCID: PMC3582262.
 https://pubmed.ncbi.nlm.nih.gov/23314323/
